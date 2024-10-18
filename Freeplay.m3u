@@ -29,7 +29,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
 #=======================================Music===================================================
 
-#EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom" tvg-logo=""https://i.ibb.co/LdYKsyW/Zoom.png,Zoom
+#EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom" tvg-logo="https://i.ibb.co/LdYKsyW/Zoom.png",Zoom
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 
 #EXTINF:1 tvg-id="MusicIndia.in" tvg-name="Music India" tvg-logo="https://i.ibb.co/kxFJxD8/Music-India.png",Music India 
