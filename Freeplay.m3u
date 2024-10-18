@@ -40,17 +40,17 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 
 #=======================================Info===================================================
 
-#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-name="SONY BBC Earth HD" tvg-logo="https://i.postimg.cc/ZY70K7MT/BBC-EARTH-HD.png",SONY BBC Earth HD
+#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-name="SONY BBC Earth HD" tvg-logo="https://i.ibb.co/rdj4wnw/BBC-EARTH-HD.png",SONY BBC Earth HD
 https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryHD.in" tvg-name="Discovery HD World" tvg-logo="https://i.postimg.cc/bv9KKGsV/Discovery-HD.png",Discovery HD
+#EXTINF:-1 tvg-id="DiscoveryHD.in" tvg-name="Discovery HD World" tvg-logo="https://i.ibb.co/128T1CG/Discovery-HD.png",Discovery HD
 https://raw.githubusercontent.com/dheer99/TV/main/Play/Discovery_Hindi.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryScience.in" tvg-name="Discovery Science" tvg-logo="https://i.postimg.cc/9MFFSHFT/Discovery-Science.png",Discovery Science
+#EXTINF:-1 tvg-id="DiscoveryScience.in" tvg-name="Discovery Science" tvg-logo="https://i.ibb.co/XFYtMWg/Discovery-Science.png",Discovery Science
 https://raw.githubusercontent.com/dheer99/TV/main/Play/Discovery_Science_Hindi.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryTurbo.in" tvg-name="Discovery Turbo" tvg-logo="https://i.postimg.cc/Z5YfkTY7/Discovery-Turbo.png",Discovery Turbo
+#EXTINF:-1 tvg-id="DiscoveryTurbo.in" tvg-name="Discovery Turbo" tvg-logo="https://i.ibb.co/hgyvggn/Discovery-Turbo.png",Discovery Turbo
 https://raw.githubusercontent.com/dheer99/TV/main/Play/Discovery_Turbo_Eng.m3u8
 
-#EXTINF:-1 tvg-id="AnimalPlanethd.in" tvg-name="Animal Planet HD World" tvg-logo="https://i.postimg.cc/3RD2kGmn/Animal-Planet.png",Animal Planet HD
+#EXTINF:-1 tvg-id="AnimalPlanethd.in" tvg-name="Animal Planet HD World" tvg-logo="https://i.ibb.co/99pr3mx/Animal-Planet.png",Animal Planet HD
 https://raw.githubusercontent.com/dheer99/TV/main/Play/Animal_Planet_Hindi.m3u8
