@@ -3,28 +3,28 @@
 
 #=======================================News===================================================
 
-#EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" tvg-logo="https://i.postimg.cc/y8CGprgV/AAJ-TAK.png",Aaj Tak
+#EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" tvg-logo="https://i.ibb.co/j41wM0V/AAJ-TAK.png",Aaj Tak
 https://feeds.intoday.in/aajtak/api/master.m3u8
 
-#EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" tvg-logo="https://i.postimg.cc/YCVzyvyQ/ABP-NEWS.png",ABP News
+#EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" tvg-logo="https://i.ibb.co/L003S1y/ABP-NEWS.png",ABP News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 
-#EXTINF:-1 tvg-id="NDTVIndia.in" tvg-name="NDTV India" tvg-logo="https://i.postimg.cc/0jM8nH6Y/NDTV.png",NDTV India
+#EXTINF:-1 tvg-id="NDTVIndia.in" tvg-name="NDTV India" tvg-logo="https://i.ibb.co/kK2WkPz/NDTV.png",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 
-#EXTINF:-1 tvg-id="IndiaTV.in" tvg-name="India TV" tvg-logo="https://i.postimg.cc/cL6Vn8n3/INDIA-TV.png",India TV
+#EXTINF:-1 tvg-id="IndiaTV.in" tvg-name="India TV" tvg-logo="https://i.ibb.co/3Bv8CzX/INDIA-TV.png",India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
 
-#EXTINF:-1 tvg-id="ZeeNews.in" tvg-name="Zee News" tvg-logo="https://i.postimg.cc/hj48XVJW/ZEE-NEWS.png",Zee News
+#EXTINF:-1 tvg-id="ZeeNews.in" tvg-name="Zee News" tvg-logo="https://i.ibb.co/WHW9KS4/ZEE-NEWS.png",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 
-#EXTINF:-1 tvg-id="TV9Bharatvarsh.in" tvg-name="TV9 Bharatvarsh" tvg-logo="https://i.postimg.cc/tCyjKscB/TV9-Bharat.png",TV9 Bharatvarsh
+#EXTINF:-1 tvg-id="TV9Bharatvarsh.in" tvg-name="TV9 Bharatvarsh" tvg-logo="https://i.ibb.co/NN99Nkh/TV9-Bharat.png",TV9 Bharatvarsh
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TimesNowNavbharat.in" tvg-name="Times Now Navbharat" tvg-logo="https://i.postimg.cc/TYScybX9/Times-Now-Navbharat.png",TN Navbharat
+#EXTINF:-1 tvg-id="TimesNowNavbharat.in" tvg-name="Times Now Navbharat" tvg-logo="https://i.ibb.co/D7596F8/Times-Now-Navbharat.png",TN Navbharat
 https://dvvvc0h9v3hoz.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name="NDTV 24x7" tvg-logo="https://i.postimg.cc/Fs2KWcQy/NDTV-24-X7.png",NDTV 24x7
+#EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name="NDTV 24x7" tvg-logo="https://i.ibb.co/8dpC98T/NDTV-24-X7.png",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
 #=======================================Music===================================================
